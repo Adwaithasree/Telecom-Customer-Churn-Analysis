@@ -66,4 +66,8 @@ to insight generation and business recommendations.
 - Promote automated payment methods.
 - Review pricing strategies for high-cost plans.
 
---
+---
+
+## 🎯 Conclusion
+-This project demonstrates strong data analytics skills by transforming raw telecom customer data into meaningful insights.
+-The structured approach, clear visualizations, and business-focused recommendations make this project suitable for academic evaluation as well as real-world data analytics roles.
