@@ -1,6 +1,6 @@
 ## Analysis Notebook
 
-This folder contains the complete Jupyter notebook for the project.
+This folder contains the complete Colab notebook for the project.
 The notebook includes:
 
 - Data loading and inspection
