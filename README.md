@@ -66,6 +66,4 @@ to insight generation and business recommendations.
 - Promote automated payment methods.
 - Review pricing strategies for high-cost plans.
 
----
-
-## 📁 Repository Structure
+--
